@@ -1,4 +1,4 @@
-## Stacking boxes using z-index
+## Z-index
 
 In this project we stack the boxes using the position & z-index property.
 
@@ -9,7 +9,6 @@ In this project we stack the boxes using the position & z-index property.
 
 ```
 https://code.visualstudio.com/download
-
 ```
 2 - Go to "extensions" and download "Live Sever"
 
