@@ -1,0 +1,26 @@
+#block-01, #block-02, #block-03 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  font: bold 2em / 4 sans-serif;
+  text-align: center;
+  color: #FFF;
+}
+#block-01 {
+  background: #EE0000;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+#block-02 {
+  background: #0000DD;
+  left: 15px;
+  top: 75px;
+  z-index: 2;
+}
+#block-03 {
+  background: #00CC00;
+  left: 30px;
+  top: 150px;
+  z-index: 3;
+}
